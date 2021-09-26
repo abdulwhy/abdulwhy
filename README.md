@@ -1,7 +1,7 @@
 - 👋 Hi, I’m rehman abdul rehman
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on pygame
 - 📫 How to reach me abdulwhy99@gmail.com
 
 <!---
